@@ -1,0 +1,5 @@
+#+TITLE: An output repository of bibliography files of CS conferences
+
+This repository is the output of https://github.com/lihebi/biber
+
+I use it via an Emacs plugin https://github.com/lihebi/smart-scholar.el
